@@ -1,0 +1,101 @@
+LOCUS       CR536544                 972 bp    mRNA    linear   PRI 16-OCT-2008
+DEFINITION  Homo sapiens full open reading frame cDNA clone RZPDo834F0720D for
+            gene LGALS4, lectin, galactoside-binding, soluble, 4 (galectin 4);
+            complete cds, incl. stopcodon.
+ACCESSION   CR536544
+VERSION     CR536544.1
+KEYWORDS    Full ORF shuttle clone, Gateway(TM), complete cds.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 972)
+  AUTHORS   Halleck,A., Ebert,L., Mkoundinya,M., Schick,M., Eisenstein,S.,
+            Neubert,P., Kstrang,K., Schatten,R., Shen,B., Henze,S., Mar,W.,
+            Korn,B., Zuo,D., Hu,Y. and LaBaer,J.
+  TITLE     Cloning of human full open reading frames in Gateway(TM) system
+            entry vector (pDONR201)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 972)
+  AUTHORS   Halleck,A., Ebert,L., Mkoundinya,M., Schick,M., Eisenstein,S.,
+            Neubert,P., Kstrang,K., Schatten,R., Shen,B., Henze,S., Mar,W.,
+            Korn,B., Zuo,D., Hu,Y. and LaBaer,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2004) RZPD Deutsches Ressourcenzentrum fuer
+            Genomforschung GmbH, Im Neuenheimer Feld 580, D-69120 Heidelberg,
+            Germany
+COMMENT     RZPD; RZPDo834F0720D, ORFNo 3138
+            www.rzpd.de/cgi-bin/products/cl.cgi?CloneID=RZPDo834F0720D RZPDLIB;
+            Human Full ORF Clones Gateway(TM) - RZPD (kan-resist.) RZPD LIB No.
+            834
+            www.rzpd.de/cgi-bin/products/showLib.pl.cgi/response?libNo=834
+            www.rzpd.de/products/orfclones/
+            Contact: Inge Arlart
+            RZPD Deutsches Ressourcenzentrum fuer Genomforschung GmbH,
+            Heubnerweg 6, D-14059 Berlin, Germany
+            Tel: +49 30 32639 100
+            Fax: +49 30 32639 111
+            www.rzpd.de
+            This clone is available from RZPD;
+            contact RZPD (customer.service@rzpd.de) for further information.
+            
+            This CDS clone is a part of a collection of human full ORF clones
+            jointly established and verified by the Harvard Institute of
+            Proteomics and RZPD.
+            This CDS has been cloned incl. stopcodon.
+            The CDS has been inserted into pDONR201 via a BP Clonase(TM)
+            reaction. Additional sequence has been added in front of the start
+            codon: att..AAAAAA GCA GGC TCC ACC (ATG).
+            The stopcodon is followed by the 3' att site:
+            (stop)GACCCAGCTTTCTT..att Compared to the reference sequence
+            NM_006149 (gi6006017) we did not find any amino acid exchanges.
+            Clone distribution: http://www.rzpd.de/products/orfclones/
+FEATURES             Location/Qualifiers
+     source          1..972
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="RZPDo834F0720D"
+                     /clone_lib="Human Full ORF Clones Gateway(TM) - RZPD"
+                     /lab_host="DH10B"
+                     /note="Vector: pDONR201, Site_1: attP1; Site_2: attP2"
+     gene            1..972
+                     /gene="LGALS4"
+     CDS             1..972
+                     /gene="LGALS4"
+                     /codon_start=1
+                     /protein_id="CAG38781.1"
+                     /db_xref="GOA:Q6FHZ4"
+                     /db_xref="HGNC:HGNC:6565"
+                     /db_xref="InterPro:IPR001079"
+                     /db_xref="InterPro:IPR008985"
+                     /db_xref="InterPro:IPR013320"
+                     /db_xref="InterPro:IPR015533"
+                     /db_xref="UniProtKB/TrEMBL:Q6FHZ4"
+                     /translation="MAYVPAPGYQPTYNPTLPYYQPIPGGLNVGMSVYIQGVASEHMK
+                     RFFVNFVVGQDPGSDVAFHFNPRFDGWDKVVFNTLQGGKWGSEERKRSMPFKKGAAFE
+                     LVFIVLAEHYKVVVNGNPFYEYGHRLPLQMVTHLQVDGDLQLQSINFIGGQPLRPQGP
+                     PMMPPYPGPGHCHQQLNSLPTMEGPPTFNPPVPYFGRLQGGLTARRTIIIKGYVPPTG
+                     KSFAINFKVGSSGDIALHINPRMGNGTVVRNSLLNGSWGSEEKKITHNPFGPGQFFDL
+                     SIRCGLDRFKVYANGQHLFDFAHRLSAFQRVDTLEIQGDVTLSYVQI"
+ORIGIN      
+        1 atggcctatg tccccgcacc gggctaccag cccacctaca acccgacgct gccttactac
+       61 cagcccatcc cgggcgggct caacgtggga atgtctgttt acatccaagg agtggccagc
+      121 gagcacatga agcggttctt cgtgaacttt gtggttgggc aggatccggg ctcagacgtc
+      181 gccttccact tcaatccgcg gtttgacggc tgggacaagg tggtcttcaa cacgttgcag
+      241 ggcgggaagt ggggcagcga ggagaggaag aggagcatgc ccttcaaaaa gggtgccgcc
+      301 tttgagctgg tcttcatagt cctggctgag cactacaagg tggtggtaaa tggaaatccc
+      361 ttctatgagt acgggcaccg gcttccccta cagatggtca cccacctgca agtggatggg
+      421 gatctgcaac ttcaatcaat caacttcatc ggaggccagc ccctccggcc ccagggaccc
+      481 ccgatgatgc caccttaccc tggtcccgga cattgccatc aacagctgaa cagcctgccc
+      541 accatggaag gacccccaac cttcaacccg cctgtgccat atttcgggag gctgcaagga
+      601 gggctcacag ctcgaagaac catcatcatc aagggctatg tgcctcccac aggcaagagc
+      661 tttgctatca acttcaaggt gggctcctca ggggacatag ctctgcacat taatccccgc
+      721 atgggcaacg gtaccgtggt ccggaacagc cttctgaatg gctcgtgggg atccgaggag
+      781 aagaagatca cccacaaccc atttggtccc ggacagttct ttgatctgtc cattcgctgt
+      841 ggcttggatc gcttcaaggt ttacgccaat ggccagcacc tctttgactt tgcccatcgc
+      901 ctctcggcct tccagagggt ggacacattg gaaatccagg gtgatgtcac cttgtcctat
+      961 gtccagatct aa
+//
+
